@@ -1,4 +1,4 @@
-# STEPS
+# STEPS (Scroll Down):
 1. Type this command into your terminal tab and press enter:  ```chmod +x install.sh```
 2. After type this command into your terminal tab and press enter:  ```./install.sh```
 3. Wait for everything to process. After, your terminal tab should have a installer. Click the green button that says Install, then scroll down and click Install Now.
