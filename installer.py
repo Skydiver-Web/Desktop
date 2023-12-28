@@ -16,15 +16,6 @@ Head="""
 
 > DesktopOnCodespaces Allow you to run grapical linux and windows apps in your codespace for free.
 
-It Actually Have
-* Windows App Support (using wine)
-* Audio Support
-* Root Access
-* Support File Persistance
-* Entierly in web browser
-* Bypass School Network
-* Fast VMs Using KVM (Windows and Linux)
-
 """
 InstallHead="""
 # DesktopOnCodespaces Installer
